@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+    <title>Nodejs Chat</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<ul class="pages">
+		<li class="chat page">
+		  <div class="chat_area">
+			<ul class="messages"></ul>
+		  </div>
+		  <input class="input_message" placeholder="Type here..."/>
+		</li>
+		<li class="login page">
+		  <div class="form">
+			<h3 class="title">What's your nickname?</h3>
+			<input class="username_input" type="text" maxlength="14" />
+		  </div>
+		</li>
+	</ul>
+	<script src="//code.jquery.com/jquery-3.5.0.js"></script>
+	<script src="/socket.io/socket.io.js"></script>
+	<script src="/chat.js"></script>
+</body>
+</html>

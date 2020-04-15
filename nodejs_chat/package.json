@@ -1,0 +1,22 @@
+{
+  "name": "nodejs_chat",
+  "version": "1.0.0",
+  "description": "Nodejs Chat Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chat",
+    "nodejs",
+    "express",
+    "socket.io"
+  ],
+  "author": "https://www.roytuts.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jquery": "^3.5.0",
+    "socket.io": "^2.3.0"
+  }
+}
