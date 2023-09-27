@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/nodejs-express-mysql-rest-api-crud-example/
+Please follow the tutorial https://roytuts.com/nodejs-express-mysql-rest-api-crud-example/
